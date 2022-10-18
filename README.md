@@ -3,7 +3,6 @@
 ## Table of contents
 
 - [Introduction](#introduction)
-- [Demo](#demo)
 - [Run](#run)
 - [Technology](#technology)
 - [Features](#features)
